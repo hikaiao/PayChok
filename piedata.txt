@@ -1,5 +1,0 @@
-bloodtype	amounts
-A	140
-B	382
-O	162
-AB	118
